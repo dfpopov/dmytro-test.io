@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Peak Leap",
   tagline: "Dinosaurs are cool",
-  url: "https://dfpopov.github.io",
+  url: "https://dfpopov.github.io/dmytro-test.io/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
