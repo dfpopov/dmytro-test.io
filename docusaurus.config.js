@@ -9,7 +9,7 @@ const config = {
   title: "Peak Leap",
   tagline: "Dinosaurs are cool",
   url: "https://dfpopov.github.io/",
-  baseUrl: "/",
+  baseUrl: "dmytro-test.io/",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "dfpopov", // Usually your GitHub org/user name.
