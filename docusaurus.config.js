@@ -10,12 +10,12 @@ const config = {
   tagline: "Dinosaurs are cool",
   url: "https://dfpopov.github.io/",
   baseUrl: "/",
-  onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "dfpopov", // Usually your GitHub org/user name.
   projectName: "dmytro-test.io", // Usually your repo name.
   trailingSlash: false,
+  onBrokenLinks: 'log',
   plugins: [
     [
       require.resolve("@cmfcmf/docusaurus-search-local"),
