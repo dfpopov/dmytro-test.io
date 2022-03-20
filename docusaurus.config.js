@@ -8,13 +8,14 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Peak Leap",
   tagline: "Dinosaurs are cool",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://dfpopov.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "dfpopov", // Usually your GitHub org/user name.
+  projectName: "dmytro-test.io", // Usually your repo name.
+  trailingSlash: false,
   plugins: [
     [
       require.resolve("@cmfcmf/docusaurus-search-local"),
