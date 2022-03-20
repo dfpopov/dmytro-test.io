@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Peak Leap",
   tagline: "Dinosaurs are cool",
-  url: "https://dfpopov.github.io/dmytro-test.io/",
+  url: "https://dfpopov.github.io/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -72,7 +72,6 @@ const config = {
           {
             type: "docsVersionDropdown",
             position: "right",
-            dropdownItemsAfter: [{ to: "/versions", label: "All versions" }],
             dropdownActiveClassDisabled: true,
           },
           {
